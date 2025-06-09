@@ -28,7 +28,7 @@ You reviewed the following SOC dashboard visualizations:
 
 ---
 
-📁 Full analysis: [`incident-summary/SOC_Alerts_Incident_Analysis_Report.md`](incident-summary/SOC_Alerts_Incident_Analysis_Report.md)  
-📁 Remediation plan: [`remediation-plan/Remediation_Strategy.md`](remediation-plan/Remediation_Strategy.md)
+📁 Full analysis: [`incident-summary/SOC_Alerts_Incident_Analysis_Report.md`](Incident-Summary/SOC_Alerts_Incident_Analysis_Report.md)
+📁 Remediation plan: [`remediation-plan/Remediation_Strategy.md`](Remediation-plan/Remediation_Strategy.md)
 
 ---
